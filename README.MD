@@ -21,7 +21,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/product-zone.git
+    git clone https://github.com/shimul-das/product_zone.git
     ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,7 @@ Once the development server is running, you can access the website at [http://lo
 
 ## Links
 
-- **GitHub Repository**: [https://github.com/yourusername/product-zone](https://github.com/yourusername/product-zone)
+- **GitHub Repository**: [https://github.com/shimul-das/product_zone.git](https://github.com/shimul-das/product_zone.git)
 - **Live Website**: [https://productzone11.netlify.app/](https://productzone11.netlify.app/)
 
 ## Contributing
