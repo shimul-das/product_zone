@@ -1,0 +1,25 @@
+
+
+.error-container {
+    background-image: url('./../../assets/image/error.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .error-title {
+    font-size: 6rem;
+    color: white;
+    text-shadow: 2px 2px black;
+  }
+  
+  .error-message {
+    font-size: 2rem;
+    color: white;
+    text-shadow: 1px 1px black;
+  }
+  

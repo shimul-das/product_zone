@@ -1,0 +1,31 @@
+.shopContainer{
+    display: grid;
+    grid-template-columns:4fr 1fr;
+}
+.productContainer{
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+}
+
+.review-order{
+    width:90%;
+    height: 56px;
+    margin: 10px auto;
+    background-color:yellowgreen;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 21px;
+}
+.slider{
+    width: 100%;
+    height: 100vh;
+}
+
+.chef_number{
+    background-color: #DFD3BD;
+}
